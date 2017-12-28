@@ -7,8 +7,6 @@
   * [Download Mongodb Package link](http://pecl.php.net/package/mongodb) - download package based on your operating system `example: PHP 7.1 Thread Safe (TS) x86`.
     * After download package past it to `Your xampp\php\ext`
   * Add the following line to your `php.ini` file  `extension=php_mongodb.dll`
-  
-* #### Configuration Mongodb after installation
   * Create a folder `C:\data\db`
   * Go to `( Your-Monogodb-path\Server\3.4\bin )` Open cmd run `mongod` this command run the mongodb server.
   
