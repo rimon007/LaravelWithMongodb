@@ -27,7 +27,7 @@
       protected $db;
 
       public function __construct(){
-        $this->db = (new Mongo)->dbquitch;
+        $this->db = (new Mongo)->dbtest;
       }
 
         public function index() {    	
