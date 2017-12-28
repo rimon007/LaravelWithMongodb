@@ -10,7 +10,7 @@
   * Create a folder `C:\data\db`
   * Go to `( Your-Monogodb-path\Server\3.4\bin )` Open cmd run `mongod` this command run the mongodb server.
   
-# Laravel
+# Mongodb Integrate with Laravel
 * Install MongoDB Driver Library inside laravel `composer require mongodb/mongodb` done.
 
   #### CRUD Operation
